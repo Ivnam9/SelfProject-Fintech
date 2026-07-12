@@ -4,7 +4,7 @@ A fixed income analytics platform: bond pricing, Nelson-Siegel-Svensson yield
 curve fitting, PCA decomposition of curve movements, and HMM-based interest
 rate regime detection.
 
-## ⚠️ Important note on data
+## Important note on data
 
 This build was developed in a sandboxed environment with **no network access
 to FRED or RBI**. Two consequences:
